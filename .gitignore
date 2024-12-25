@@ -5,5 +5,3 @@ obj/
 example.txt
 puzzle.txt
 test.txt
-*.sln
-*.csproj
