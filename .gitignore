@@ -1,0 +1,7 @@
+.idea/
+bin/
+AoCTemplate/
+obj/
+example.txt
+puzzle.txt
+test.txt
